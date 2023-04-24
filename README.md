@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-#### - > Front-end developer.
-#### - > JavaScript and its frameworks.
+#### - > I'm front-end developer.
+#### - > Work with JavaScript and its frameworks.
 #### - > angeloagatz@gmail.com
